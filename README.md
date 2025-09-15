@@ -20,7 +20,7 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 ```
 ## :blue_book: Visualização
 
-:trollface: :trollface::trollface: [Clique aqui para acessar a tentativa de construir um artigo](indicadores.financeiros/arquivo.pdf) 
+:trollface: :trollface: :trollface: [Clique aqui para acessar a tentativa de construir um artigo](indicadores.financeiros/arquivo.pdf) 
 
 ---
 
