@@ -19,19 +19,17 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 **Sérgio Ricardo Vieira Torres Silva**  
 [![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  
-
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergio.torres@feac.ufal.br)  
-
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)  
 
 ---
 
 **Talysson Rafael Lima Ferreira**  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:talysson.ferreira@feac.ufal.br)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:talysson.ferreira@feac.ufal.br)  
 
 ---
 
 **Alex dos Santos Júnior**  
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex.junior@feac.ufal.br)  
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:alex.junior@feac.ufal.br)  
 
 
