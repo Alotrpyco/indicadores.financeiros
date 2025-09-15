@@ -1,7 +1,7 @@
 
 ## :notebook_with_decorative_cover: Descrição do Projeto
 
-Este repositório contém a atividade para a pontuação da AB1 da matéria Elaboração e análose de Projetos, ministrado pelo professor Cleydner Marques de Magalhães Maurício [Lattes](http://lattes.cnpq.br/1149404022685972). Dessa forma, Este projeto apresenta um modelo em LaTeX para análise de indicadores financeiros a partir do balanço patrimonial da Usina Coruripe.
+Este repositório contém a atividade para a pontuação da AB1 da matéria Elaboração e Análose de Projetos, ministrado pelo professor Cleydner Marques de Magalhães Maurício [Lattes](http://lattes.cnpq.br/1149404022685972). Dessa forma, Este projeto apresenta um modelo em LaTeX para análise de indicadores financeiros a partir do balanço patrimonial da Usina Coruripe.
 
 Acesse o site oficial da Usina: [Clique aqui](https://www.usinacoruripe.com.br/)
 
