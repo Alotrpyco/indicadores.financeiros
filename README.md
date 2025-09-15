@@ -9,6 +9,15 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 ---
 
+## :open_file_folder: Estrutura do Projeto
+```
+├── :chart_with_upwards_trend: indicadores.financeiros
+    ├── arquivo.pdf
+    └── arquivo.tex
+├── .gitignore
+├── LICENSE
+└── README.md
+```
 ## :blue_book: Visualização
 
 :bookmark_tabs: [Clique aqui para acessar o relatório](indicadores.financeiros/arquivo.pdf)
