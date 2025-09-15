@@ -13,14 +13,14 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 ```
 ├── indicadores.financeiros
     ├── arquivo.pdf
-    └── arquivo.tex
+    ├── arquivo.tex
 ├── .gitignore
 ├── LICENSE
 └── README.md
 ```
 ## :blue_book: Visualização
 
-:bookmark_tabs: [Clique aqui para acessar o relatório](indicadores.financeiros/arquivo.pdf)
+:trollface: :trollface: :trollface: [Clique aqui para acessar a tentativa de construir um artigo](indicadores.financeiros/arquivo.pdf) 
 
 ---
 
