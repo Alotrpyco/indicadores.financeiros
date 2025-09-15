@@ -11,7 +11,7 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 ## :open_file_folder: Estrutura do Projeto
 ```
-├── :chart_with_upwards_trend: indicadores.financeiros
+├── indicadores.financeiros
     ├── arquivo.pdf
     └── arquivo.tex
 ├── .gitignore
@@ -24,7 +24,7 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 ---
 
-## Autores:
+## :guardsman: Autores:
 
 **Sérgio Ricardo Vieira Torres Silva**  
 [![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=red)](mailto:sergio.torres@feac.ufal.br)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sergioricardo-me)  
