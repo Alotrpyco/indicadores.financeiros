@@ -15,7 +15,7 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 ---
 
-## Autores
+## Autores:
 
 **Sérgio Ricardo Vieira Torres Silva**  
 [![Lattes](https://img.shields.io/badge/Lattes-000?style=for-the-badge&logo=read.cv&logoColor=white)](http://lattes.cnpq.br/6028108290396877)  
