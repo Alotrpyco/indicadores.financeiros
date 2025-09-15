@@ -23,8 +23,10 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 :paperclip: [LinkedIn](https://linkedin.com/in/sergioricardo-me) 
 
 **Talysson Rafael Lima Ferreira**
+
 :email: [talysson.ferreira@feac.ufal.br](mailto:talysson.ferreira@feac.ufal.br)
 
 **Alex dos Santos Júnior**
+
 :email: [alex.junior@feac.ufal.br](mailto:alex.junior@feac.ufal.br)
 
