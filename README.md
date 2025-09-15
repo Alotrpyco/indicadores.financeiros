@@ -11,9 +11,10 @@ Além disso, o documento está configurado com pacotes essenciais para relatóri
 
 ## :open_file_folder: Estrutura do Projeto
 ```
-├── indicadores.financeiros
+project_analysis/
+├── indicadores.financeiros/
     ├── arquivo.pdf
-    ├── arquivo.tex
+    └── arquivo.tex
 ├── .gitignore
 ├── LICENSE
 └── README.md
